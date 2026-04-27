@@ -1,5 +1,14 @@
 # Rock-Paper-Scissors
-A simple rock-paper-scissors game. Player vs CPU
+A simple rock-paper-scissors game, mainly using the alertbox prompt as the gameplay loop. Player Choice vs CPU random choice.
 
-21/3/26
-- 
+# Made using
+- html
+- js
+
+# Planned Updates
+- Add UI
+- Improve Code Readability and general Clean-up
+
+# Lessons
+- Using alert boxes.
+- Creating a random choice function that chooses from an array.
