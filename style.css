@@ -1,0 +1,6 @@
+.playerChoice * {
+    border: 2px solid grey;
+    max-width: 100px;
+    height: auto;
+    padding: 5px;
+}
